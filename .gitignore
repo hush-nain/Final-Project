@@ -1,0 +1,99 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+myenv/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==============================
+# IDEs & Editors
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Logs & System files
+# ==============================
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# ==============================
+# Datasets / Audio / Video / Images
+# ==============================
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# ==============================
+# ML / DL models & Checkpoints
+# ==============================
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.sav
+*.joblib
+
+# ==============================
+# Archives & Large Files
+# ==============================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ==============================
+# Data folders (local only)
+# ==============================
+Drone-detection-dataset/
+drone_recordings/
+clean_audio_files/
+SegmentedAudio/
+MFCC_Features_Calibrated/
+CNN models/
+calibration files/
+Images/
+
+# ==============================
+# Excel/Spreadsheets
+# ==============================
+*.xls
+*.xlsx
+*.ods
