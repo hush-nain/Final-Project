@@ -90,6 +90,7 @@ MFCC_Features_Calibrated/
 CNN models/
 calibration files/
 Images/
+AcousticPrint/
 
 # ==============================
 # Excel/Spreadsheets
